@@ -15,4 +15,8 @@ public class Practise {
     public String getSecondMesage(@RequestParam String message){
         return message;
     }
+    @GetMapping("/thirdMessage")
+    public String getThirdMessage(@RequestParam String message){
+        return message;
+    }
 }
