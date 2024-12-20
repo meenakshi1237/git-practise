@@ -7,4 +7,9 @@ public class Service {
     public String getMesage(){
         return "firstMessage";
     }
+
+    public String firstMessage(){
+        return "firstMessage";
+    }
+
 }
