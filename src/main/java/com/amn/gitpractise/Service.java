@@ -8,4 +8,8 @@ public class Service {
         return "firstMessage";
     }
 
+    public String firstMessage(){
+        return "firstMessage";
+    }
+
 }
