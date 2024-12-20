@@ -9,7 +9,11 @@ public class Service {
     }
 
     public String firstMessage(){
-        return "firstMessage";
+        return "secondMessage";
+    }
+
+    public String thirdMessage(){
+        return "thirdMessage";
     }
 
 }
